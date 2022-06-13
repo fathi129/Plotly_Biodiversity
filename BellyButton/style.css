@@ -1,0 +1,25 @@
+.large-fontsize{
+    font-size: 30px !important;
+    } 
+.jumbotron {
+        background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinadxFtGc-Pq3QhIykg_PB9uxVor9IKGSkA&usqp=CAU");
+        background-size: cover;
+        background-position: center; 
+        color: white
+        
+      }  
+      
+.jumbotron h1{
+        color: #fff;
+    }
+
+.jumbotron p{
+        color: #fff;
+    }   
+    
+    /* .panel-primary{
+        background: #490c94b9; color: #fff; }     */
+body{
+    background-image:url("https://thumbs.dreamstime.com/b/background-design-virus-spreading-over-blue-gradient-concepts-medical-genetics-microorganisms-182875698.jpg")
+}        
+
